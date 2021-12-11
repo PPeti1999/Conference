@@ -10,19 +10,17 @@
       "section": [
                 {
                   "id": "1222",
-                  "name": "PlayIt",
+                  "name": "Faszom1",
                   "startingTime": "2021-12-07T18:30:48.701Z",
                   "endingTime": "2021-12-09T18:30:48.701Z",
-                  "country": "Mo",
-                  "city": "Eger"
+                  "country": "Lyuk1"
                 },
                 {
                   "id": "22222",
-                  "name": "PlayIt",
+                  "name": "Faszom2",
                   "startingTime": "2021-12-07T18:30:48.701Z",
                   "endingTime": "2021-12-09T18:30:48.701Z",
-                  "country": "Mo",
-                  "city": "Eger"
+                  "country": "Lyuk2"
                 }
               ]
     },
