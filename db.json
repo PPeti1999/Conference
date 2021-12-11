@@ -6,7 +6,25 @@
       "startingTime": "2021-12-07T18:30:48.701Z",
       "endingTime": "2021-12-09T18:30:48.701Z",
       "country": "Mo",
-      "city": "Eger"
+      "city": "Eger",
+      "section": [
+                {
+                  "id": "1222",
+                  "name": "PlayIt",
+                  "startingTime": "2021-12-07T18:30:48.701Z",
+                  "endingTime": "2021-12-09T18:30:48.701Z",
+                  "country": "Mo",
+                  "city": "Eger"
+                },
+                {
+                  "id": "22222",
+                  "name": "PlayIt",
+                  "startingTime": "2021-12-07T18:30:48.701Z",
+                  "endingTime": "2021-12-09T18:30:48.701Z",
+                  "country": "Mo",
+                  "city": "Eger"
+                }
+              ],
     },
     {
       "id": "2",
@@ -17,24 +35,7 @@
       "city": "Eger"
     }
   ],
-  "section": [
-    {
-      "id": "1222",
-      "name": "PlayIt",
-      "startingTime": "2021-12-07T18:30:48.701Z",
-      "endingTime": "2021-12-09T18:30:48.701Z",
-      "country": "Mo",
-      "city": "Eger"
-    },
-    {
-      "id": "22222",
-      "name": "PlayIt",
-      "startingTime": "2021-12-07T18:30:48.701Z",
-      "endingTime": "2021-12-09T18:30:48.701Z",
-      "country": "Mo",
-      "city": "Eger"
-    }
-  ],
+  
   "profile": {
     "name": "typicode"
   } 
