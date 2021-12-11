@@ -6,7 +6,26 @@
   "startingTime": "2021-12-07T18:30:48.701Z",
   "endingTime": "2021-12-09T18:30:48.701Z",
   "country": "Mo",
-  "city": "Eger"
+  "city": "Eger",
+     	"sections":
+		          {
+			        "section":
+				            [
+					            { "id": "1001",
+                        "theme": "Makk",
+                        "startingTime": "2021-12-07T18:30:48.701Z",
+                        "endingTime": "2021-12-09T18:30:48.701Z",
+                        "roomID":"1"
+                        },
+					           { "id": "1002",
+                        "theme": "Pekk",
+                        "startingTime": "2021-12-07T18:30:48.701Z",
+                        "endingTime": "2021-12-09T18:30:48.701Z",
+                        "roomID":"2"
+                        },
+
+				            ]
+		          },
 },
 {
   "id": "2",
