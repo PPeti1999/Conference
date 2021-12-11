@@ -10,17 +10,17 @@
       "section": [
                 {
                   "id": "1222",
-                  "name": "Faszom1",
+                  "theme": "Faszom1",
                   "startingTime": "2021-12-07T18:30:48.701Z",
                   "endingTime": "2021-12-09T18:30:48.701Z",
-                  "country": "Lyuk1"
+                  "roomID": "Lyuk1"
                 },
                 {
                   "id": "22222",
-                  "name": "Faszom2",
+                  "theme": "Faszom2",
                   "startingTime": "2021-12-07T18:30:48.701Z",
                   "endingTime": "2021-12-09T18:30:48.701Z",
-                  "country": "Lyuk2"
+                  "roomID": "Lyuk2"
                 }
               ]
     },
