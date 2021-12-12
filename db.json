@@ -22,6 +22,22 @@
                   "endingTime": "2021-12-09T18:30:48.701Z",
                   "roomID": "Lyuk2"
                 }
+              ],
+      "lecture": [
+                {
+                  "id": "1222",
+                  "theme": "Faszom1",
+                  "startingTime": "2021-12-07T18:30:48.701Z",
+                  "endingTime": "2021-12-09T18:30:48.701Z",
+                  "roomID": "Lyuk1"
+                },
+                {
+                  "id": "22222",
+                  "theme": "Faszom2",
+                  "startingTime": "2021-12-07T18:30:48.701Z",
+                  "endingTime": "2021-12-09T18:30:48.701Z",
+                  "roomID": "Lyuk2"
+                }
               ]
     },
     {
