@@ -25,18 +25,18 @@
               ],
       "lecture": [
                 {
-                  "id": "1222",
-                  "theme": "Faszom1",
+                  "id": "333",
+                  "title": "Faszom1",
+                  "author": "Lyuk1",
                   "startingTime": "2021-12-07T18:30:48.701Z",
-                  "endingTime": "2021-12-09T18:30:48.701Z",
-                  "roomID": "Lyuk1"
+                  "endingTime": "2021-12-09T18:30:48.701Z"
                 },
                 {
-                  "id": "22222",
-                  "theme": "Faszom2",
+                  "id": "4",
+                  "title": "Faszom2",
+                  "author": "Lyuk2",
                   "startingTime": "2021-12-07T18:30:48.701Z",
-                  "endingTime": "2021-12-09T18:30:48.701Z",
-                  "roomID": "Lyuk2"
+                  "endingTime": "2021-12-09T18:30:48.701Z"
                 }
               ]
     },
